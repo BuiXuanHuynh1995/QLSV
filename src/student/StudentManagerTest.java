@@ -1,5 +1,7 @@
-import java.util.ArrayList;
-import java.util.List;
+package student;
+
+import student.StudentManager;
+
 import java.util.Scanner;
 
 public class StudentManagerTest {
